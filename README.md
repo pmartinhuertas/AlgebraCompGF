@@ -1,6 +1,6 @@
 # AlgebraCompGF
 
-Algoritmo de euclides para R un D.E cualquiera. y algoritmo de euclides extendido
+**Algoritmo de euclides para R un D.E cualquiera. y algoritmo de euclides extendido** (casi -> enteros gauss!)
 
 Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso)
 
@@ -12,7 +12,7 @@ Inverso de un elemento en un cuerpo finito.
 
 
 
-Test de irreducibilidad de un poliomio en Fq[x]
+**Test de irreducibilidad de un poliomio en Fq[x]**
 
 Logaritmo discreto en cuerpos Fq[x]/(f(x))
 
