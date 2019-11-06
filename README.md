@@ -25,3 +25,8 @@ Algoritmo de factorizacion de Berlekamp en cuerpos finitos
 Algorimos de factorizacion en Z[x]
 
 Algorimo de primalidad de AKS
+
+
+# Subir nota
+
+algoritmo polinomial y probabilista de factorizacion n = p*q
