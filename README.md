@@ -1,6 +1,6 @@
 # AlgebraCompGF
 
-~~Algoritmo de euclides para R un D.E cualquiera. ~~
+~~Algoritmo de euclides para R un D.E cualquiera.~~
 
 ~~Algoritmo de euclides extendido~~
 
