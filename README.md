@@ -1,6 +1,8 @@
 # AlgebraCompGF
 
-**Algoritmo de euclides para R un D.E cualquiera. y algoritmo de euclides extendido** (casi -> enteros gauss!)
+~~Algoritmo de euclides para R un D.E cualquiera. ~~
+
+~~Algoritmo de euclides extendido~~
 
 Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso)
 
