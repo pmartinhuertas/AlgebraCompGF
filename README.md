@@ -7,7 +7,7 @@ Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso)
 Mcd en un D.F.U.
 
 
-Inverso de un elemento en un cuerpo finito.
+~~Inverso de un elemento en un cuerpo finito.~~
 	p,f irreducibles en Zp[x] -> K:=Zp[x] / (f(x)) |K|=p^(deg f)
 
 
