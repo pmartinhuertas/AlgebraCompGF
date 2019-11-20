@@ -12,7 +12,7 @@ Mcd en un D.F.U.
 ~~Inverso de un elemento en un cuerpo finito.~~
 (p,f irreducibles en Zp[x] -> K:=Zp[x] / (f(x)) |K|=p^(deg f))
 
-Test de irreducibilidad de un poliomio en Fq[x] -> falta poner nuestro gcd
+~~Test de irreducibilidad de un poliomio en Fq[x]~~ -> falta poner nuestro gcd
 
 Logaritmo discreto en cuerpos Fq[x]/(f(x))
 
