@@ -4,7 +4,7 @@
 
 ~~Algoritmo de euclides extendido~~
 
-Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso) -> solo hecho para enteros
+~~Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso)~~ -> solo falta asociativo
 
 Mcd en un D.F.U.
 
