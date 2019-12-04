@@ -14,7 +14,7 @@
 
 ~~Test de irreducibilidad de un poliomio en Fq[x]~~ -> falta poner nuestro gcd
 
-~~Logaritmo discreto en cuerpos Fq[x]/(f(x))~~
+~~Logaritmo discreto en cuerpos Fq[x]/(f(x))~~ duda en Fq?
 
 Algoritmo de factorización de un polinomio en cuerpo finito parte ~~1~~, 2 y 3.
 
