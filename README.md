@@ -6,7 +6,7 @@
 
 ~~Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso)~~ -> solo falta asociativo
 
-Mcd en un D.F.U.
+~~Mcd en un D.F.U.~~
 
 
 ~~Inverso de un elemento en un cuerpo finito.~~
