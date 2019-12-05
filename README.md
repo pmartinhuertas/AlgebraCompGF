@@ -22,7 +22,7 @@ Algoritmo de factorizacion de Berlekamp en cuerpos finitos
 
 Algorimos de factorizacion en Z[x]
 
-Algorimo de primalidad de AKS
+~~Algorimo de primalidad de AKS~~ 
 
 
 # Subir nota
