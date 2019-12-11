@@ -16,7 +16,7 @@
 
 ~~Logaritmo discreto en cuerpos Fq[x]/(f(x))~~ duda en Fq?
 
-Algoritmo de factorización de un polinomio en cuerpo finito parte ~~1~~, 2 y 3.
+Algoritmo de factorización de un polinomio en cuerpo finito parte ~~1~~, 2 y ~~3~~
 
 Algoritmo de factorizacion de Berlekamp en cuerpos finitos 
 
