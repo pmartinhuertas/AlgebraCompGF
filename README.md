@@ -20,7 +20,7 @@
 
 Algoritmo de factorizacion de Berlekamp en cuerpos finitos 
 
-~~Algorimos de factorizacion en Z[x]~~ -> FALTA KRONECKER
+~~Algorimos de factorizacion en Z[x]~~ ojo caso n=3
 
 ~~Algorimo de primalidad de AKS~~ 
 
