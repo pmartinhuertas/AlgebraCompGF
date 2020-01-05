@@ -27,7 +27,7 @@ Algoritmo de factorizacion de Berlekamp en cuerpos finitos
 
 # Subir nota
 
-algoritmo polinomial y probabilista de factorizacion n = p*q (Miller Rabin)
+~~algoritmo polinomial y probabilista de factorizacion n = p*q (Miller Rabin)~~
 
 Algoritmo de butchnerger
 
