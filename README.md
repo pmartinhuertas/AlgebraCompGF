@@ -2,35 +2,47 @@
 
 ## Algoritmos básicos
 
-~~Algoritmo de euclides para R un D.E cualquiera.~~
+* Algoritmo de euclides para R un D.E cualquiera
+ + Enteros
+ + Enteros de Gauss
+ + Polinomios con coeficientes en un cuerpo finito
 
-~~Algoritmo de euclides extendido~~
+* Algoritmo de euclides extendido
+ + Enteros
+ + Enteros de Gauss
+ + Polinomios con coeficientes en un cuerpo finito
 
-~~Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso)~~
+* Algoritmo para calcular el teorema chino del resto
+ + Enteros
+ + Polinomios con coeficientes en un cuerpo finito
 
-~~Mcd en un D.F.U.~~
+* Mcd en un D.F.U.
 
+* Inverso de un elemento en un cuerpo finito
 
-~~Inverso de un elemento en un cuerpo finito.~~
+* Test de irreducibilidad de un poliomio en Fq[x]
 
-~~Test de irreducibilidad de un poliomio en Fq[x]~~
+* Logaritmo discreto en cuerpos Fq[x]/(f(x))
 
-~~Logaritmo discreto en cuerpos Fq[x]/(f(x))~~
+* Algoritmos de factorización de un polinomio en cuerpo finito parte 1, 2 y 3
+ + 1º. Factorización "Square-free"
+ + 2º. Factorización "Distinct Degree"
+ + 3º. Factorización con algoritmo de Cantor–Zassenhaus
 
-~~Algoritmo de factorización de un polinomio en cuerpo finito parte 1, 2 y 3~~
+* Algoritmo de factorizacion de Berlekamp en cuerpos finitos
 
-~~Algoritmo de factorizacion de Berlekamp en cuerpos finitos~~ 
+* Algorimos de factorizacion en Z[x] 
+ + Método de Kronecker
+ + Algoritmo de Hensel
 
-~~Algorimos de factorizacion en Z[x] (Kronecker y Hensel)~~
-
-~~Algorimo de primalidad de AKS~~ 
+* Algorimo de primalidad de AKS
 
 
 ## Algoritmos adicionales
 
-~~algoritmo polinomial y probabilista de factorizacion n = p*q (Miller Rabin)~~
+* Algoritmo polinomial y probabilista de factorizacion n = p*q (Miller-Rabin)
 
-~~Algoritmo de butchnerger~~
+* Algoritmo de Butchnerger
 
 Algoritmo de la division entre varios polinomios (varias variables)
 
