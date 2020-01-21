@@ -4,13 +4,12 @@
 
 ~~Algoritmo de euclides extendido~~
 
-~~Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso)~~ -> solo falta asociativo
+~~Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso)~~
 
 ~~Mcd en un D.F.U.~~
 
 
 ~~Inverso de un elemento en un cuerpo finito.~~
-(p,f irreducibles en Zp[x] -> K:=Zp[x] / (f(x)) |K|=p^(deg f))
 
 ~~Test de irreducibilidad de un poliomio en Fq[x]~~
 
@@ -20,7 +19,7 @@
 
 ~~Algoritmo de factorizacion de Berlekamp en cuerpos finitos~~ 
 
-~~Algorimos de factorizacion en Z[x]~~
+~~Algorimos de factorizacion en Z[x] (Kronecker y Hensel)~~
 
 ~~Algorimo de primalidad de AKS~~ 
 
@@ -29,7 +28,7 @@
 
 ~~algoritmo polinomial y probabilista de factorizacion n = p*q (Miller Rabin)~~
 
-Algoritmo de butchnerger
+~~Algoritmo de butchnerger~~
 
 Algoritmo de la division entre varios polinomios (varias variables)
 
