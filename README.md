@@ -4,8 +4,8 @@
 
 * Algoritmo de euclides para R un D.E cualquiera
    + Enteros
- + Enteros de Gauss
- + Polinomios con coeficientes en un cuerpo finito
+   + Enteros de Gauss
+   + Polinomios con coeficientes en un cuerpo finito
 
 * Algoritmo de euclides extendido
  + Enteros
