@@ -1,4 +1,6 @@
-# AlgebraCompGF
+# Algebra Computacional
+
+## Algoritmos básicos
 
 ~~Algoritmo de euclides para R un D.E cualquiera.~~
 
@@ -24,7 +26,7 @@
 ~~Algorimo de primalidad de AKS~~ 
 
 
-# Subir nota
+## Algoritmos adicionales
 
 ~~algoritmo polinomial y probabilista de factorizacion n = p*q (Miller Rabin)~~
 
