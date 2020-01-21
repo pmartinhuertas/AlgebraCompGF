@@ -3,7 +3,7 @@
 ## Algoritmos básicos
 
 * Algoritmo de euclides para R un D.E cualquiera
- + Enteros
+   + Enteros
  + Enteros de Gauss
  + Polinomios con coeficientes en un cuerpo finito
 
