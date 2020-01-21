@@ -31,11 +31,11 @@
 
 * Algoritmo de factorizacion de Berlekamp en cuerpos finitos
 
-* Algorimos de factorizacion en Z[x] 
+* Algoritmos de factorizacion en Z[x] 
    + Método de Kronecker
    + Algoritmo de Hensel
 
-* Algorimo de primalidad de AKS
+* Algoritmo de primalidad de AKS
 
 
 ## Algoritmos adicionales
