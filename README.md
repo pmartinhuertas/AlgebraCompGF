@@ -8,13 +8,13 @@
    + Polinomios con coeficientes en un cuerpo finito
 
 * Algoritmo de euclides extendido
- + Enteros
- + Enteros de Gauss
- + Polinomios con coeficientes en un cuerpo finito
+   + Enteros
+   + Enteros de Gauss
+   + Polinomios con coeficientes en un cuerpo finito
 
 * Algoritmo para calcular el teorema chino del resto
- + Enteros
- + Polinomios con coeficientes en un cuerpo finito
+   + Enteros
+   + Polinomios con coeficientes en un cuerpo finito
 
 * Mcd en un D.F.U.
 
@@ -25,15 +25,15 @@
 * Logaritmo discreto en cuerpos Fq[x]/(f(x))
 
 * Algoritmos de factorización de un polinomio en cuerpo finito parte 1, 2 y 3
- + 1º. Factorización "Square-free"
- + 2º. Factorización "Distinct Degree"
- + 3º. Factorización con algoritmo de Cantor–Zassenhaus
+   + 1º. Factorización "Square-free"
+   + 2º. Factorización "Distinct Degree"
+   + 3º. Factorización con algoritmo de Cantor–Zassenhaus
 
 * Algoritmo de factorizacion de Berlekamp en cuerpos finitos
 
 * Algorimos de factorizacion en Z[x] 
- + Método de Kronecker
- + Algoritmo de Hensel
+   + Método de Kronecker
+   + Algoritmo de Hensel
 
 * Algorimo de primalidad de AKS
 
