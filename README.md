@@ -25,9 +25,9 @@
 * Logaritmo discreto en cuerpos Fq[x]/(f(x))
 
 * Algoritmos de factorización de un polinomio en cuerpo finito parte 1, 2 y 3
-   + 1º. Factorización "Square-free"
-   + 2º. Factorización "Distinct Degree"
-   + 3º. Factorización con algoritmo de Cantor–Zassenhaus
+   + 1º - Factorización "Square-free"
+   + 2º - Factorización "Distinct Degree"
+   + 3º - Factorización con algoritmo de Cantor–Zassenhaus
 
 * Algoritmo de factorizacion de Berlekamp en cuerpos finitos
 
