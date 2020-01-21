@@ -42,8 +42,10 @@
 
 * Algoritmo polinomial y probabilista de factorizacion n = p*q (Miller-Rabin)
 
-* Algoritmo de Butchnerger
+* Algoritmos con Bases de Groebner
 
-Algoritmo de la division entre varios polinomios (varias variables)
+   + Algoritmo de Butchnerger
 
-Algoritmo para saber si un elemento pertenece a un ideal
+   + Algoritmo de la division entre varios polinomios (varias variables)
+
+   + Algoritmo para saber si un elemento pertenece a un ideal
