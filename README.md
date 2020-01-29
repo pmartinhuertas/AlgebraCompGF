@@ -1,5 +1,7 @@
 # Algebra Computacional (2019-2020)
 
+Recopilación de algoritmos principalmente para cuerpos finitos (aunque algunos consideran enteros y enteros de Gauss) desarrollados en maple.
+
 ## Algoritmos básicos
 
 * Algoritmo de euclides para R un D.E cualquiera
